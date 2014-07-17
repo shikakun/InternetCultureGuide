@@ -83,5 +83,6 @@
 
 * 加瀬亮
  * https://youpy.jottit.com/加瀬亮
+ * http://webcache.googleusercontent.com/search?q=cache:7Mw5cvilZJ8J:https://youpy.jottit.com/%25E5%258A%25A0%25E7%2580%25AC%25E4%25BA%25AE+&cd=1&hl=ja&ct=clnk&gl=jp
 * 記者会見の再現
  * https://twitter.com/youpy/status/485041668186312704
