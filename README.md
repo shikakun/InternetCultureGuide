@@ -1,4 +1,4 @@
-![internetcultureguide](https://cloud.githubusercontent.com/assets/1396953/3610579/3a6ac5dc-0d8e-11e4-8688-d6b95979de2c.png)
+<img src="https://cloud.githubusercontent.com/assets/1396953/3621369/984f3986-0e14-11e4-9d8e-931fd6044be4.png" alt="インターネットのニューヨーク">
 
 * [PDF](https://github.com/shikakun/InternetCultureGuide/blob/master/InternetCultureGuide2014.pdf)
 * [TEXT](https://github.com/shikakun/InternetCultureGuide/blob/master/text.md)
