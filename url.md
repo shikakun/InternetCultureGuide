@@ -20,10 +20,10 @@
 
 * 【特集】エイフェックスやtomad、ガガ様まで虜にする、SNSが生み出した新ジャンル「＃シーパンク」とは何なのか？
  * http://www.qetic.jp/music/seapunk/98014/
-* STEREO-TENNIS
- * http://www.stereo-tennis.net/
 * BACON
  * http://bacon-index.tumblr.com/
+* STEREO-TENNIS
+ * http://www.stereo-tennis.net/
 
 #### #glitch
 
@@ -40,6 +40,8 @@
 
 * Twitter がGIFアニメに対応。iPhone / Android / ウェブで利用可能に - Engadget Japanese
  * http://japanese.engadget.com/2014/06/18/twitter-gif-iphone-android/
+* GIF BOOK
+ * http://booklog.jp/item/1/4861008638
 * #gif | Tumblr
  * http://www.tumblr.com/search/%23gif
 * dvdp
@@ -50,8 +52,6 @@
  * http://giphy.com/gifdanceparty/
 * GIF 3D Gallery - okikata.org
  * http://okikata.org/work/work/gif-3d-gallery.html
-* GIF BOOK
- * http://booklog.jp/item/1/4861008638
 
 #### #疑似3D
 
